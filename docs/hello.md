@@ -1,0 +1,3 @@
+- 这个仓库做什么：`superagent-playground` 是 dsh-superagent 的试验仓库，用来验证「从 Issue 收到请求 → 自动修改代码 → 开 PR」的完整流程。
+- 谁维护：WorldTree12306（仓库所有者）。
+- agent 是谁：WorldTree12315（dsh-superagent 使用的 GitHub 机器人账号）。
